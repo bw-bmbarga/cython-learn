@@ -1,0 +1,8 @@
+*.c
+*.so
+cython/build
+*__pycache__
+*.history
+*.vscode
+*.idea
+dev
