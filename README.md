@@ -39,14 +39,14 @@ With:
 
 ## To Test
 
-To compile the Cython, just run the shell
-```shell-script
-sh ./build_cython.sh
-```
-
 You can create a virtual environment by running : 
 ```shell-script
 virtualenv dev
+```
+
+To compile the Cython, just run the shell
+```shell-script
+sh ./build_cython.sh
 ```
 
 To run the tests :

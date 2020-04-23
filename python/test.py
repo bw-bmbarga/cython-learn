@@ -1,3 +1,4 @@
+__author__ = 'd4rk3r'
 
 def loop_to(x):
     y = 1

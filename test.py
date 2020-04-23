@@ -8,14 +8,14 @@ print("-")
 
 print("[+] With Cython, looping test")
 start = time.time()
-c_run(5, 99999)
+c_run(5, 9999)
 print("[+] Elapsed-time : ", str(time.time() - start))
 
 print("----")
 
 print("[+] With Python, looping test")
 start = time.time()
-p_run(5, 99999)
+p_run(5, 9999)
 print("[+] Elapsed-time : ", str(time.time() - start))
 print("-")
 
